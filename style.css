@@ -1,0 +1,36 @@
+.header-bg-color{
+    background-color:rgb(254 234 233);
+}
+/* primary-color */
+.text-primary{
+    color: #ff458e !important;
+}
+.border-rounded-10{
+    border-radius: 10px;
+}
+.imgSize img{
+    width: 100px;
+    height: 100px;
+}
+.categories-bg-2{
+    background-color: #da70d6;
+}
+.categories-bg-3{
+    background-color: #0000ff;
+}
+/* button-custom */
+.btn-buy-now{
+    color: white;
+    padding: 9px 25px;
+    cursor: pointer;
+    background-image:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+}
+/* subscriber */
+.subscriber-bg{
+     background-color: #fceae8;
+}
+.subscriber-height{
+    height: 300px;
+}
